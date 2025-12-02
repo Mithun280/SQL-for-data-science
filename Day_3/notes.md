@@ -1,5 +1,4 @@
 # Creating a Table
-
 - Once you have selected a database, you can create tables to organize and store data.
 
 ### Syntax
